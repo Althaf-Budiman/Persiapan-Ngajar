@@ -1,0 +1,25 @@
+/* body {
+   margin: 0;
+} */
+
+header {
+   text-align: center;
+   background-color: burlywood;
+   color: white;
+   padding: 15px;
+}
+
+header img {
+   border-radius: 50%;
+}
+
+main {
+   text-align: center;
+   background-color: gray;
+   padding: 15px;
+   color: white;
+}
+
+main table {
+   margin: 10px auto;
+}
