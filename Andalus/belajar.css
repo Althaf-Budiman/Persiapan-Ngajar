@@ -14,12 +14,26 @@ header img {
 }
 
 main {
-   text-align: center;
    background-color: gray;
    padding: 15px;
    color: white;
+   text-align: center;
 }
 
-main table {
+#skill table {
    margin: 10px auto;
+}
+
+#sosmed li {
+   list-style: none;
+   display: inline-block;
+   padding: 10px;
+   border-radius: 10px;
+   background-color: white;
+   color: black;
+   box-shadow: 0 0 10px black;
+}
+
+#sosmed ul {
+   padding-inline-start: 0;
 }
